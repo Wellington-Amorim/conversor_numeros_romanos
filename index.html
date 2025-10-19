@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <button id="btnSom" type="button" onclick="som()">SOM</button>
+    <video autoplay loop muted src="./assets/purpleEyesAnimeGirl.mp4"></video>
+
+    <div class="container">
+        <h1>Conversor de números romanos</h1>
+        <h2 id="resultado"></h2>
+        <input class="inputEBtn" type="text" id="inputNumero" min="1" max="3999" 
+        placeholder="Digite um número decimal ou romano">
+        <button class="inputEBtn" id="btnConverter" onclick="converter(value)">Converter</button>
+    </div>
+    <div class="container" id="containerConvertido">
+        <h2 id="convertido"></h2>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
