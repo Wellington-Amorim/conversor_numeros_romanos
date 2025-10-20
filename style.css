@@ -76,6 +76,8 @@ input, button {
 input:hover, button:hover {
     box-shadow: 0 0 10px #eeeeee;
     transition: box-shadow 0.25s ease-in-out;
+}
+button:hover {
     cursor: pointer;
 }
 
