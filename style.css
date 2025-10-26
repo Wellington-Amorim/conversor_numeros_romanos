@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     outline: none;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: "Share Tech", sans-serif;
 }
 
 video {
@@ -14,7 +14,7 @@ video {
     width: 100vw;
     object-fit: cover;
     z-index: -1;
-    filter: brightness(0.5);
+    filter: brightness(0.8);
 }
 
 body {  
@@ -93,7 +93,6 @@ button:active {
 }
 
 #resultado {
-    -webkit-text-stroke: #000000 0.5px;
     word-wrap: break-word;
     position: relative;
 }
