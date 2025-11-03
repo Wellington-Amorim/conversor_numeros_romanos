@@ -1,6 +1,7 @@
 # Conversor de números romanos
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/38a58cbf-0cf1-4967-9038-8a99d78dc2e9" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/20f1bab3-c8ae-4977-83eb-b9041fb4b978" />
+
 
 * Converte números decimais para números romanos e vice-versa
 * Feito em HTML, CSS e JS
